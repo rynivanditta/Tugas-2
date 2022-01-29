@@ -20,8 +20,6 @@ if pilih_menu == 1:
 elif pilih_menu == 2:
     data = str(input("Masukan nama :"))
     data2 = str(input("Masukan nomor telepon :"))
-    orang.append(data)
-    nomor.append(data2)
     print("Kontak Telah berhasil ditambahkan")
 elif pilih_menu == 3:
     print("******************************")
